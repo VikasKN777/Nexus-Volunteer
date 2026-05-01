@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Volunteer",
+  "description": "Find and connect with local volunteer opportunities. Discover ways to give back to your community through AI-powered recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
